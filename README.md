@@ -52,5 +52,6 @@ Cleaning & Transformation:
   - Archive Date Range  
 - Exportable insights for healthcare decision-making.  
 
-## Dashboard Preview  
+## Dashboard's Preview  
 ![Patient Waitlist Dashboard](patientsdashboard.PNG)  
+![Patient Waitlist Dashboard](patienttwo.PNG)  
