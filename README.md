@@ -53,4 +53,4 @@ Cleaning & Transformation:
 - Exportable insights for healthcare decision-making.  
 
 ## Dashboard Preview  
-![Patient Waitlist Dashboard](patientdashboard.PNG)  
+![Patient Waitlist Dashboard](patientsdashboard.PNG)  
